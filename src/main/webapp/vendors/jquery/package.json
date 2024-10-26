@@ -32,7 +32,7 @@
 		"grunt": "0.4.1",
 		"gzip-js": "0.3.1",
 		"testswarm": "~1.1.0",
-		"archiver": "~0.4.2"
+		"archiver": "~0.21.0"
 	},
 	"keywords": []
 }
